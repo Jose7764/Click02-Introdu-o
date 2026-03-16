@@ -55,6 +55,7 @@ Isso simula situações comuns em automação industrial.
 ## 🖼 Exemplo do programa Ladder
 
 ![Ladder Program](ladder-Program.png)
+![Ladder Program](imagem2.png)
 
 *(Imagem ilustrativa do programa Ladder utilizado no projeto.)*
 
